@@ -1,0 +1,9 @@
+[submodule "espresso-sequencer"]
+	path = espresso-sequencer
+	url = https://github.com/EspressoSystems/espresso-sequencer
+[submodule "op-espresso-integration"]
+	path = op-espresso-integration
+	url = https://github.com/EspressoSystems/op-espresso-integration
+[submodule "espresso-polygon-zkevm-demo"]
+	path = espresso-polygon-zkevm-demo
+	url = https://github.com/EspressoSystems/espresso-polygon-zkevm-demo.git
