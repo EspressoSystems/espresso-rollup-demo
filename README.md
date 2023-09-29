@@ -9,6 +9,7 @@ We provide a simple set of commands for launching Espresso Sequencer and support
 - Obtain code: ```git clone --recursive git@github.com:EspressoSystems/espresso-rollup-demo```.
 - Make sure nix is installed.
 - Activate the environment with nix-shell, or nix develop, or direnv allow if using direnv.
+- run ```git submodule update --init --recursive```
 
 ## Run
 ```
