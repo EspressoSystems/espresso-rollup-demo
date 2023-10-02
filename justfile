@@ -13,7 +13,7 @@ op:
     cd op-espresso-integration; nix develop -c bash -c "make devnet-up-espresso-demo"
 
 zkevm:
-    cd espresso-polygon-zkevm-demo; nix develop -c bash -c "just deploy-on-sequencer"
+    cd espresso-polygon-zkevm-demo; nix develop -c bash -c "just deploy-rollup"
 
 clean:
     cd espresso-sequencer; nix develop -c bash -c "just down --volumes"
